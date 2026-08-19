@@ -24,5 +24,5 @@ Productboard portal cards are used to communicate the development of a feature t
   - Who's it For
     Call out the primary roles or use cases that benefit most. This helps customers self-identify relevance and helps Product avoid “for everyone” features.
   - Additional Information
-    Link to Help Article
+  - Link to Help Article
 
