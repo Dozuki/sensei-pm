@@ -4,8 +4,14 @@ description: Help Product Managers generate a productboard portal card from a PR
 ---
 
 # Portal Card Creation
+> If you see unfamiliar placeholders or need to check which tools are connected, see [CONNECTORS.md](../../CONNECTORS.md).
 
 Productboard portal cards are used to communicate the development of a feature to customers and stakeholders. This skill helps Product Managers generate a portal card from a PRD using Dozuki's standardized template, ensuring that all necessary information is included and formatted correctly for submission.
+
+## Usage
+```
+/create-portal-card $ARGUMENTS
+```
 
 ## Workflow 
 ### 1. Get the PRD

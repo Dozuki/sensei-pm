@@ -12,8 +12,10 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 
 | Skill | What it helps you do
 |---|---|
-| [Competitive Strategy](skills/competitive-strategy/) | Build durable moats and outmaneuver rivals by identifying structural power and customer-centric differentiation. | 
 | [Competitive Research](skills/competitive-research/) | Stay ahead of the market by tracking competitor news, launches, and feature updates as they happen, so your roadmap decisions are never a step behind. |
+
+### Discovery & Research
+
 
 ### Building & Shipping
 
