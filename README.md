@@ -14,11 +14,13 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 |---|---|
 | [Competitive Research](skills/competitive-research/) | Stay ahead of the market by tracking competitor news, launches, and feature updates as they happen, so your roadmap decisions are never a step behind. |
 
-### Discovery & Research
+### Product Discovery
 
 
-### Building & Shipping
+### Product Delivery
 
 | Skill | What it helps you do
 |---|---|
 | [Create Portal Card](skills/create-portal-card/) | Generate a productboard portal card description from a PRD using Dozuki's standardized template |
+
+### Go-to-Market

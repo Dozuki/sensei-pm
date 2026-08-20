@@ -14,10 +14,10 @@ Productboard portal cards are used to communicate the development of a feature t
 ```
 
 ## Workflow 
-### 1. Get the PRD
+### 1. Get the Product Requirements Document (PRD)
 Accept the PRD in any of these forms:
    * Pasted text directly into the chat
-   * A Notion link (if ~~knowledge base is connected, fetch the document)
+   * A Notion link (if `~~knowledge base` is connected, fetch the document)
    * A file attachment
 
 if no PRD is provided, ask the user to paste or share it before proceeding.
@@ -31,14 +31,8 @@ if no PRD is provided, ask the user to paste or share it before proceeding.
    - Benefits and value proposition
 
 ### 3. Create a Portal Card description
-Use the following template to generate a portal card description:
-
-> ## Overview
-> Briefly describe the customer problem this feature solves and the primary value it delivers. Keep this to 1–2 sentences and avoid implementation details.
-> ## How it Works
-> Explain the experience from the user’s point of view. Focus on the flow, not the technology. Use plain language and keep it to a few short steps.
-> ## Who's it For
-> Call out the primary roles or use cases that benefit most. This helps customers self-identify relevance and helps Product avoid “for everyone” features.
-> ## Additional Information
-> Link to Help Article
-
+Use the template in `references/TEMPLATE.md` to structure the output. A complete hypothesis document fills every template section:
+   - Overview
+   - How it Works
+   - Who's it For
+   - Additional Information
